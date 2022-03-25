@@ -1,0 +1,44 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("images/table.png");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+h1 {
+    color: #ebc801;
+    font-size: xxx-large;
+}
+
+p{
+    font-size: large;
+}
+
+#message-el {
+    font-style: italic;
+    font-size: larger;
+}
+
+/* 3. Make sure that the two buttons have some space between
+each other when they are rendered out vertically */
+button {
+    color: #016f32;
+    width: 150px;
+    background: rgb(250, 195, 54);
+    padding: .5rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin:.2rem;
+    cursor: pointer;
+}
