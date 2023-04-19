@@ -1,3 +1,3 @@
-# Simple Blackjack Game
+# Blackjack Game
 
-[Live Site](https://a2uuz.github.io/blackjackgame/)
+[Live Site](https://azizzmoe.github.io/blackjackgame/)
